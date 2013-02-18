@@ -8,4 +8,4 @@
 
 ## URL Form
 
-  dayone://post?entry={query}%0A%0A%0A%0A----%0A%0A%23Foo%20%23Foo
+    dayone://post?entry={query}%0A%0A%0A%0A----%0A%0A%23Foo%20%23Foo
