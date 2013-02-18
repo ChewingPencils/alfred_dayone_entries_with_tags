@@ -1,5 +1,6 @@
 #Alfred 2 Workflow for Creating Day One Entries with Tags
 
+Create template based [Day One App](http://dayoneapp.com) entries using [Alfred 2 Beta](http://www.alfredapp.com).
 
 ## Overview
 
